@@ -5,7 +5,7 @@ const Navigation = () => {
       aria-label="Third navbar example"
     >
       <div className="container">
-        <a className="navbar-brand" href="#">
+        <a className="navbar-brand" href="/">
           Chat WiTh US
         </a>
         <button
